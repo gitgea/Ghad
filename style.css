@@ -487,7 +487,7 @@ html {
 .contact {
   padding: 15rem 0 20rem 0;
   text-align: center;
-  background: url(images/contact-us-bg.png) center no-repeat;
+  background: url(images/pohon.png) center no-repeat;
   background-size: cover;
   animation: contact-bg 35s infinite;
 }
